@@ -7,14 +7,14 @@ function App() {
     <div className="app">
       <h1>This is a TikTok Clone</h1>
       <div className="app_videos">
-      <Video url="https://instagram.fkhi17-1.fna.fbcdn.net/v/t50.2886-16/120527647_2800279483590187_8154895894103330760_n.mp4?_nc_ht=instagram.fkhi17-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=bfMprExoBzwAX-Sv388&oe=5F857EB6&oh=cc7b29bcdfd1494d627dda026f839e78"
+      <Video url="https://instagram.fkhi17-1.fna.fbcdn.net/v/t50.2886-16/120296609_3612115372153961_2554083216496033620_n.mp4?_nc_ht=instagram.fkhi17-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=EP6Ck_IMILAAX8FMGb0&oe=5F8A6B5D&oh=9c95b73790cfb936040c1169bac06fa9"
       channel="azzanarain"
       description="this is the video description"
       song="the song of the video is display"
       likes={320}
       shares={25}
       messages={400}/>
-      <Video url="https://instagram.fkhi17-1.fna.fbcdn.net/v/t50.2886-16/120296609_3612115372153961_2554083216496033620_n.mp4?_nc_ht=instagram.fkhi17-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=jq6RmV9yE54AX-80KvL&oe=5F85255D&oh=f2f7b9cbd410f7b3838b02fff932d79a"
+      <Video url="https://instagram.fkhi17-1.fna.fbcdn.net/v/t50.2886-16/120075720_652719022314471_3340884166742625707_n.mp4?_nc_ht=instagram.fkhi17-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=gO7paVgmVCQAX9WQgrL&oe=5F8AC03B&oh=a8548c1d4ef5084eba37c0e9fd4553b2"
       channel="azzanarain"
       description="this is the video description"
       song="the song of the video is display"
